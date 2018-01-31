@@ -1,0 +1,15 @@
+# Associations
+# comment out the urls if you do not wish to display them
+
+- organization: Lausanne Bondy Blog
+  role: Volunteer writer
+  year: Apr 2014 &mdash; Present
+  url: https://www.lausannebondyblog.ch/
+  ## summary: Organized fund drives and participated in fundraising events for the benefit of families in third world countries without proper access to malt beverages.
+
+
+- organization: Lausanne Bondy Blog
+  role: Editor-in-chief
+  year: Jan 2016 &mdash; Jan 2018
+  url: https://www.lausannebondyblog.ch/
+  ## summary: Founding member of the local nuclear workers labor union.
