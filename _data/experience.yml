@@ -3,24 +3,35 @@
 - company: Swiss Federal Institute of Technology
   position: Librarian
   duration: April, 2017 &mdash; Present
-  #summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+  summary: Teaching librarian and liaison librarian for the College of Management of Technology. 
 
- # Windmill Crank Operator
+
+ # WHO
 - company: World Health Organization
   position: Contractor
   duration:  September, 2015 &mdash; November, 2017
-  #summary: 
+  summary: Translated information retrieval tutorials from English to French within Hinari Project.
 
   
-# Windmill Crank Operator
+# CHUV
 - company: University Hospital of Lausanne
   position: IT-Librarian
   duration:  January, 2014 &mdash; March, 2017
-  #summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+  summary:   <ul class="resume-item-list">
+  <li>Migrated data from Alexandrie to Koha for a Public Health Library Network</li>
+  <li>Supported medical professionals and students in their bibliographic data management (Endnote and Zotero)</li>
+  <li>Taught medical professionals and students about for literature research for health professionals and students</li>
+  <li>Launched and managed new library website</li>
+  </ul>
 
-
-# Front Desk Attendant
+# HEG
 - company: Geneva School of Business Administration
   position: Research Assistant
-  duration:   March, 2012  &mdash; January, 2014
-  #summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+  duration: March, 2012  &mdash; January, 2014
+  #summary:
+  
+ #HUG
+- company: Geneva University Hospital
+  position: Web editor
+  duration:  August, 2011 &mdash; February, 2012
+  #summary: 
