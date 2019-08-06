@@ -6,8 +6,10 @@
 - language: English
   level: Certified C1 // Excellent command, full working proficiency
 
+- language: German
+  level: B2
+  
 - language: Spanish
   level: Very good command
   
-- language: German
-  level: Rusty B2
+
