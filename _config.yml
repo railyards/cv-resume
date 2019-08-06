@@ -15,10 +15,18 @@ resume_title:                   "Information Specialist"
 resume_contact_email:           "mathilde.panes[@]protonmail.com"
 resume_contact_telephone:       "+41 76 679 93 37"
 resume_contact_address:         "Chemin des Bruyères 3, 1007 Lausanne"
-resume_header_contact_info: "Chemin des Bruyères 3, 1007 Lausanne| homerjsimpson@youremailaddress.com"
-resume_header_intro: "<p>Mathilde Panes is a librarian and a technology enthusiast who graduated with a Bachelor of Science from the Geneva School of Business Administration in 2011. She completed her Master’s degree in Business Administration at the University of Applied Sciences and Arts, Western Switzerland in 2013. During these studies, she chose to specialise in Information systems management, including agile methodologies and new technologies integration.
-
-Her experience ranges from scientific to academic contexts, with a strong accent on IT. She has worked for the World Health Organisation on their electronic resources, as a webmaster at the University Hospital in Geneva, and as a research assistant at the Geneva School of Business Administration. She then held a position at the Medical of the University Hospital Centre, in Lausanne. She is currently working as a teaching librarian at the Swiss Federal Institute of Technology. She is very interested in new methods of collaboration, the process of knowledge sharing among peers, and the notions around authorship and copyright/left models.</p>"
+resume_header_contact_info: "Chemin des Bruyères 3, 1007 Lausanne"
+resume_header_intro: "<p>Mathilde Panes is a librarian and a technology enthusiast who holds a MSc in Business Administration
+with a major in Information Systems management 
+from the Applied University of Western Switzerland and a BSc 
+of Information Science from the Geneva School of Business Administration. 
+She has more than 10 years of experience in scientific and academic contexts, with a strong accent on IT. 
+She has worked for the World Health Organisation on their electronic resources, as a webmaster at the University Hospital
+in Geneva, and as a research assistant at the Geneva School of Business Administration. 
+She then held a system librarian position at the Medical of the University Hospital Centre, in Lausanne. 
+She is currently team coordinator for the EFPL Library teaching team, at the Swiss Federal Institute of Technology. 
+She is very interested in new methods of collaboration, the process of knowledge sharing among peers, and 
+the notions around authorship and copyright/left models.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
